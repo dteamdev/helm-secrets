@@ -1,4 +1,4 @@
-FROM dtzar/helm-kubectl:3.6.2
+FROM dtzar/helm-kubectl:3.8.0
 
 ARG VCS_REF
 ARG BUILD_DATE
